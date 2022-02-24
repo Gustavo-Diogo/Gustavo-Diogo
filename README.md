@@ -1,8 +1,11 @@
-
-### Hey! It's nice to have you here.
+<body>
+<h1 align="center"> It's so nice to have you here, enjoy!
+  </h1>
 
 <div>
-<br>
+  <p>
+  
+ <br>
 🚀 My name is Gustavo, you can call me Gu, Gusta or any of those cliches nicknames for Gustavo 
 <br>
 🧐 I have had experience on Mobile and Desktop Development
@@ -11,7 +14,9 @@
 <br>
 📚 JavaScript, TypeScript, React Native, Python and I was trying to learn Flutter (but I kinda surrendered for now)
 <br> 
-<div/>
+ 🎉 Back-End developer at Paymilhas
+ </p>
+</div>
 
 
 
@@ -30,3 +35,4 @@
 <a href="https://www.twitch.tv/gstoney_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-diogo-silva-9325471a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<body/>
