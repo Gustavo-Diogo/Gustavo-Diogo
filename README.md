@@ -6,13 +6,13 @@
   <p>
   
  <br>
-🚀 My name is Gustavo, you can call me Gu, Gusta or any of those cliches nicknames for Gustavo 
+🚀 My name is Gustavo, but you can call me Gu. 
 <br>
 🧐 I have had experience on Mobile and Desktop Development
 <br>
 🎂 19y
 <br>
-📚 JavaScript, TypeScript, React Native, Python and I was trying to learn Flutter (but I kinda surrendered for now)
+📚 JavaScript, TypeScript, React Native, Python and I was trying to learn Flutter (but I kinda gave up for now)
 <br> 
  🎉 Back-End developer at Paymilhas
  </p>
