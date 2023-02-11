@@ -10,11 +10,11 @@
 <br>
 🧐 I have had experience on Mobile and Desktop Development
 <br>
-🎂 19y
+🎂 20y
 <br>
-📚 JavaScript, TypeScript, React Native, Python and I was trying to learn Flutter (but I kinda gave up for now)
+📚 NodeJS, Java, AWS
 <br> 
- 🎉 Back-End developer at Paymilhas
+ 🎉 Developer at Teasy Solutions!
  </p>
 </div>
   
