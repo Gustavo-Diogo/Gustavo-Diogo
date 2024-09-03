@@ -10,11 +10,11 @@
 <br>
 🧐 I have had experience on Mobile and Desktop Development
 <br>
-🎂 21y
+🎂 22y
 <br>
-📚 NodeJS, Java, AWS
+📚 NodeJS, Next, Java and etc
 <br> 
- 🎉 Developer at Teasy Solutions!
+ 🎉 Developer at Teasy Solutions and Null Bug
  </p>
 </div>
   
