@@ -6,13 +6,11 @@
   <p>
   
  <br>
-🚀 My name is Gustavo, but you can call me Gu. 
+🚀 Hey there! I'm Gustavo, hope you enjoy my little small repo. 
 <br>
-🧐 I have had experience on Mobile and Desktop Development
+🎂 23y
 <br>
-🎂 22y
-<br>
-📚 NodeJS, Next, Java and etc
+📚 NodeJS, Next/React, Angular, Java and etc
 <br> 
  🎉 Available to work
  </p>
