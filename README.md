@@ -14,7 +14,7 @@
 <br>
 📚 NodeJS, Next, Java and etc
 <br> 
- 🎉 Developer at Teasy Solutions and Null Bug
+ 🎉 Available to work
  </p>
 </div>
   
